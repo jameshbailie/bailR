@@ -11,6 +11,7 @@ Description: This package is a collection of my personal utility functions,
 License: `use_gpl3_license()`
 Encoding: UTF-8
 LazyData: true
-Imports: ggplot2
+Imports: 
+	ggplot2 (>= 3.3.2)
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
